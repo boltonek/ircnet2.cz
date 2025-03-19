@@ -24,7 +24,7 @@ Append to /etc/apache2/apache2.conf
 ```
 <VirtualHost *:80>
   ServerName irc.warszawa.pl
-  DocumentRoot /var/www/irc.warszawa.pl
+  DocumentRoot /var/www/irc.ircnet2.cz
 </VirtualHost>
 ```
 
